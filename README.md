@@ -1,3 +1,3 @@
-# Todo-List# TODO-LIST
+# Todo-List
 
 ![Screenshot](photo.png)
